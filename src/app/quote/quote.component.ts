@@ -6,11 +6,11 @@ import {Quote} from '../quote';
   styleUrls: ['./quote.component.css']
 })
 export class QuoteComponent implements OnInit {
-  quotes=[new Quote("ATD","078146890","Beatrice Uwamahoro"),
+  quotes=[new Quote("ATD","Guide Your Mouth","Uwizeyimana Francine"),
 
-new Quote("ELt","078934567" ,"karegeya Jean"),
+new Quote("ELt","Put God first" ,"Nkurunziza Charles"),
 
-new Quote("STD","0788882344","Jessica Karega")]
+new Quote("STD","Never give up","Johnson")]
   preNum:number
   lastNum:number
   counter:number
